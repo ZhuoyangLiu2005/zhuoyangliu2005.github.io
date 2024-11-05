@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile1.png"
   name             : "Zhuoyang Liu"
-  pronouns         : "he/his"  
+  pronouns         : # 111 
   bio              : "Feel free to contact me!"
   location         : "Beijing,China"
   employer         : "Peking University"
