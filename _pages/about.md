@@ -12,7 +12,7 @@ I'm a second year undergraduate student from [Yuanpei College](https://yuanpei.p
 [Email](zhuoyang_liu@stu.pku.edu.cn) / [Github](https://github.com/miniFranka) / [Wechat](../images/wechat.jpg) 
 
 
-#Projects and Works
+# Projects and Works
 
 ## HybridVLA: Collaborative Autoregression and Diffusion in a Unified Vision-Language-Action Model
 ![hybridvla_teaser](/images/hybridvla_teaser_0520.png)
