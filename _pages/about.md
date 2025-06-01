@@ -18,12 +18,10 @@ I'm a second year undergraduate student from [Yuanpei College](https://yuanpei.p
 Jiaming Liu, Hao Chen, Pengju An, **Zhuoyang Liu**(equal technical contribution), Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC alex Zhou, Pheng-Ann Heng, Shanghang Zhang
 ![hybridvla_teaser](/images/hybridvla_teaser_0520.png)
 We introduce HybridVLA, a unified framework that absorbs the continuous nature of diffusion-based actions and the contextual reasoning of autoregression within a single large language model. HybridVLA outperforms previous state-of-the-art VLA methods by 14% and 19% in mean success rate on simulation and real-world tasks, respectively, while demonstrating stable manipulation in unseen configurations.
-
-[project page](https://hybrid-vla.github.io/)/[paper on arxiv](https://arxiv.org/abs/2503.10631)/[github repo](https://github.com/PKU-HMI-Lab/Hybrid-VLA)
+[[project page](https://hybrid-vla.github.io/)]/[[paper on arxiv](https://arxiv.org/abs/2503.10631)]/[[github repo](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
 
 ## H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos [In Submission]
 Guangrun Li, Yaoxu Lyu, **Zhuoyang Liu**(equal contribution), Chengkai Hou, Jieyu Zhang, Shanghang Zhang
 ![h2r_teaser](/images/h2r_teaser_0522.png)
 We propose H2R, a simple data augmentation technique that detects human hand keypoints, synthesizes robot motions in simulation, and composites rendered robots into egocentric videos. This process explicitly bridges the visual gap between human and robot embodiments during pre-training. We apply H2R to augment large-scale egocentric human video datasets such as Ego4D and SSv2, replacing human hands with simulated robotic arms to generate robot-centric training data.
-
-[project page](https://sites.google.com/view/h2r-robotics/)/[paper on arxiv](https://arxiv.org/abs/2505.11920)/[dataset](https://huggingface.co/datasets/yaoxu789/H2R-1M/)
+[[project page](https://sites.google.com/view/h2r-robotics/)]/[[paper on arxiv](https://arxiv.org/abs/2505.11920)]/[[dataset](https://huggingface.co/datasets/yaoxu789/H2R-1M/)]
