@@ -14,6 +14,12 @@ I'm a second year undergraduate student from [Yuanpei College](https://yuanpei.p
 
 # Publications
 
+## Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [In Submission]
+Hao Chen, Jiaming Liu, Chenyang Gu, **Zhuoyang Liu**(equal contribution), Renrui Zhang, Xiaoqi Li, Xiao He, Yandong Guo, Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng
+![fis_teaser](/images/fis_teaser_0604.png)
+We propose Fast-in-Slow (FiS), a unified dual-system vision-language-action (VLA) model that embeds the System 1 execution module within the VLM-based System 2 by partially sharing parameters. Unlike previous dual-system VLA methods that attach a separate policy head as System 1, FiS-VLA repurposes the final transformer blocks of an intact VLM as System 1, while retaining the full model for System 2 reasoning.
+[[Project Page](https://fast-in-slow.github.io/)]/[[Paper on Arxiv](https://arxiv.org/abs/2506.01953)]/[[Github Repo](https://github.com/CHEN-H01/Fast-in-Slow)]
+
 ## HybridVLA: Collaborative Autoregression and Diffusion in a Unified Vision-Language-Action Model [In Submission]
 Jiaming Liu, Hao Chen, Pengju An, **Zhuoyang Liu**(equal technical contribution), Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC alex Zhou, Pheng-Ann Heng, Shanghang Zhang
 ![hybridvla_teaser](/images/hybridvla_teaser_0520.png)
