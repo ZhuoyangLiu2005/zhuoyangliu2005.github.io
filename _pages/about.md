@@ -26,6 +26,12 @@ Jiaming Liu*, Hao Chen*, Pengju An*, **Zhuoyang Liu***(equal technical contribut
 We introduce HybridVLA, a unified framework that absorbs the continuous nature of diffusion-based actions and the contextual reasoning of autoregression within a single large language model. HybridVLA outperforms previous state-of-the-art VLA methods by 14% and 19% in mean success rate on simulation and real-world tasks, respectively, while demonstrating stable manipulation in unseen configurations.
 [[Project Page](https://hybrid-vla.github.io/)]/[[Paper on Arxiv](https://arxiv.org/abs/2503.10631)]/[[Github Repo](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
 
+## [In Submission] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation
+Sixiang Chen*, Jiaming Liu*, Siyuan Qian*, Han Jiang, Lily Li, Renrui Zhang, Zhuoyang Liu, Chenyang Gu, Chengkai Hou, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
+![hybridvla_teaser](/images/hybridvla_teaser_0520.png
+We propose the Adaptive Coordination Diffusion Transformer (AC-DiT), which enhances mobile base and manipulator coordination for end-to-end mobile manipulation.
+[[Project Page](https://ac-dit.github.io/)]/[[Paper on Arxiv](https://arxiv.org/abs/2507.01961)]/[[Github Repo](https://github.com/PKU-HMI-Lab/AC-DiT)]
+
 ## [CVPR 2025 Synthetic Data for Computer Vision Workshop][In Submission] H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos 
 Guangrun Li*, Yaoxu Lyu*, **Zhuoyang Liu***(equal contribution), Chengkai Hou, Jieyu Zhang, Shanghang Zhang
 ![h2r_teaser](/images/h2r_teaser_0522.png)
