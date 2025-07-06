@@ -28,7 +28,7 @@ We introduce HybridVLA, a unified framework that absorbs the continuous nature o
 
 ## [In Submission] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation
 Sixiang Chen*, Jiaming Liu*, Siyuan Qian*, Han Jiang, Lily Li, Renrui Zhang, Zhuoyang Liu, Chenyang Gu, Chengkai Hou, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
-![hybridvla_teaser](/images/hybridvla_teaser_0520.png
+![acdit_teaser](/images/AC-DiT_teaser_0706.png)
 We propose the Adaptive Coordination Diffusion Transformer (AC-DiT), which enhances mobile base and manipulator coordination for end-to-end mobile manipulation.
 [[Project Page](https://ac-dit.github.io/)]/[[Paper on Arxiv](https://arxiv.org/abs/2507.01961)]/[[Github Repo](https://github.com/PKU-HMI-Lab/AC-DiT)]
 
